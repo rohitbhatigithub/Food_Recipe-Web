@@ -2,7 +2,7 @@
     margin: 0;padding: 0;box-sizing: border-box;
   }
   body{
-    background-image: url(/Food_Recipe/food_recipe_backgrount_img.jpg);
+    background-image: url(./food_recipe_backgrount_img.jpg);
     background-size:cover ;
   }
   .heading{
